@@ -76,4 +76,5 @@ print(np.mean(outcome))  # output: 0.44444
 # number of true values:
 print(np.sum(outcome))  # output: 4
 
+
 # end of example code from this site
